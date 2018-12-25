@@ -13,4 +13,4 @@ IMMComposer是一个基于结点的通用可视化编程软件。主要内容包
 
 
 ### 视频处理
-![IMMComposer](https://github.com/dizuo/QVP_Kernal/blob/master/27617_1326074557v7qQ.jpg)
+![IMMComposer](https://github.com/dizuo/QVP_Kernal/blob/master/res/video.jpg)
